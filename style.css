@@ -1,0 +1,41 @@
+body {
+    border:blue;
+    margin:20px;
+    font-family: sans-serif;
+}
+header{
+    border-radius:10px;
+    background-color:rgb(47, 0, 255);
+}
+a{
+    color: black
+}
+header img{
+    margin:10px;
+}
+h1 i{
+   color:darkblue;
+}
+footer{
+    border:darkblue;
+}
+footer p{
+    background-color:DeepSkyBlue;
+    color:blue;
+}
+nav a{
+    color:white;
+    border:3px solid black;
+    border-radius:7px;
+    background-color:darkblue;
+}
+.sonic{        
+    background-color:lightcoral;
+}
+h2{
+    color: blue;
+}
+.classic{
+    border:2px solid darkblue;
+    margin:5px;
+    }
